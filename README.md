@@ -1,3 +1,4 @@
+# fastq_download_fr_acc_list
 This is for paired end reads only. for single end, need to modify the inner_sra.sh file.
 
 clean the folder
