@@ -14,4 +14,4 @@ mv down* err/
 
 If you have many many samples to download, <br>
 modify the submit.sh file to set the waiting time (seconds)<br>
-between each job submission to avoid overfluding of the HPC.
+between each job submission to avoid overflooding of the HPC.
