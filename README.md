@@ -11,4 +11,7 @@ and copy the whole parent folder for another study.
 
 5. once the download finishes, clean the error files. 
 mv down* err/ 
-# fastq_download_fr_acc_list
+
+If you have many many samples to download, <br>
+modify the submit.sh file to set the waiting time (seconds)<br>
+between each job submission to avoid overfluding of the HPC.
